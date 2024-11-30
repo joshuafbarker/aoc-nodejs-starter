@@ -1,5 +1,5 @@
 {
-  "name": "aoc-2024",
+  "name": "aoc-nodejs-starter",
   "type": "module",
   "scripts": {
     "solve": "node runner.js",
